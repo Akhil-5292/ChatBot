@@ -1,0 +1,11 @@
+.wrapper{
+    position: absolute;
+    bottom:10%;
+    right: 5%;
+}
+
+.dialog{
+    margin-left: 70rem;
+    margin-top: 5rem;
+    font-size: 15px;
+}
